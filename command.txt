@@ -1,1 +1,1 @@
-go build -o rajaanova -ldflags "-X rajaanova/checkversion/hello.BuildNum=1.0.0" cmd/main.go
+go build -o rajaanova -ldflags "-X rajaanova/checkversion/internal/hello.BuildNum=1.0.0" cmd/main.go

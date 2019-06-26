@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"rajaanova/checkversion/hello"
+	"rajaanova/checkversion/internal/hello"
 )
 
 func main() {
